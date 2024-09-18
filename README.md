@@ -5,4 +5,4 @@ Some of the datasets were personally gathered for specif purposes, such as hate 
 External datasets are part of different projects and are shared by the researchers. They are hosted on the Edinburgh DataShare site (https://datashare.ed.ac.uk).
 Each dataset is shared preserving the original format.
 
-If you use some of the datasets, please cite properly.
+If you use some of the datasets, please read the Reference document to cite properly.
